@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm an enthusiastic student at AIU, deeply passionate about the intersection of **Cybersecurity** and **Artificial Intelligence**. My journey involves understanding how to secure digital landscapes while leveraging the power of AI to build intelligent systems and analyze complex data.
+Hello!am Ryan. I'm an enthusiastic student at "AIU" African international university, deeply passionate about the intersection of **Cybersecurity** and **Artificial Intelligence**. My journey involves understanding how to secure digital landscapes while leveraging the power of AI to build intelligent systems and analyze complex data.
 
 I'm currently honing my skills in **Python scripting** for automation and security tasks, and actively diving into the world of **training AI models** and **machine learning algorithms**. I believe in continuous learning and hands-on application to solve real-world problems.
 
